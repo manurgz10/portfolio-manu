@@ -1,0 +1,15 @@
+export const palette: Record<string, string> = {
+    react:       "from-sky-500/20 to-sky-300/10 text-sky-300 border-sky-700/40",
+    nextjs:      "from-zinc-600/30 to-zinc-500/10 text-zinc-200 border-zinc-700/50",
+    typescript:  "from-blue-500/20 to-blue-300/10 text-blue-300 border-blue-700/40",
+    tailwind:    "from-cyan-500/20 to-cyan-300/10 text-cyan-300 border-cyan-700/40",
+    node:        "from-emerald-500/20 to-emerald-300/10 text-emerald-300 border-emerald-700/40",
+    postgresql:  "from-indigo-500/20 to-indigo-300/10 text-indigo-300 border-indigo-700/40",
+    docker:      "from-sky-600/20 to-sky-400/10 text-sky-300 border-sky-700/40",
+    git:         "from-orange-500/25 to-amber-300/10 text-amber-300 border-orange-700/40",
+    scrum:       "from-fuchsia-500/20 to-pink-300/10 text-pink-300 border-fuchsia-700/40",
+    dotnet:      "from-violet-500/25 to-purple-300/10 text-violet-300 border-violet-700/40",
+    azure:       "from-blue-600/25 to-blue-400/10 text-blue-300 border-blue-700/40",
+    oracle:      "from-red-600/25 to-rose-300/10 text-rose-300 border-red-700/40",
+    sencha:      "from-blue-300/25 to-green-300/10 text-rose-300 border-red-700/40",
+  };
