@@ -22,7 +22,7 @@ export default function ContactBubble({
   subjectPrefix = "I've seen your portfolio!",
 }: Props) {
   const [message, setMessage] = useState("");
-  const [fromEmail, setFromEmail] = useState("");
+  const [fromEmail] = useState("");
 
   const subject = useMemo(
     () => `${subjectPrefix}${fromEmail ? ` from ${fromEmail}` : ""}`,

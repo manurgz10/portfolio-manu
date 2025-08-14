@@ -1,1 +1,0 @@
-type TechIcon = { name: string };
