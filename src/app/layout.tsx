@@ -3,7 +3,10 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Manu Rodríguez — Portfolio",
-  description: "Full-Stack/Frontend Developer enfocado en React/Next.js.",
+  description: "Software developer.",
+  icons: {
+    icon: "/favicon.ico"       
+  }  
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
