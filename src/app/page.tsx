@@ -38,7 +38,7 @@ export default function Home() {
   Currently at Iberostar Group and pursuing a
   Computer Engineering degree at UOC.
 </p>
-  <div className="space-y-4">
+  <div className="space-y-4 mt-5">
     <TypeCard
       lines={[
         "const manu = {",
