@@ -24,7 +24,7 @@ Personal portfolio built with **Next.js (App Router)**, **TypeScript**, and **Ta
 
 ## 🧱 Tech Stack
 
-- **Framework:** Next.js 14+, React 18
+- **Framework:** Next.js 15+, React 18
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
 - **Icons:** `react-icons`
